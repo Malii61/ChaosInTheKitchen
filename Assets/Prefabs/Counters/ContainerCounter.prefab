@@ -69,6 +69,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6688aa80898d549418cc13faddd40622, type: 3}
+--- !u!4 &2139140745155483293 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4129572211642759451, guid: 6688aa80898d549418cc13faddd40622,
+    type: 3}
+  m_PrefabInstance: {fileID: 2657388902083784582}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &3388987586774724334 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: 858194533730386280, guid: 6688aa80898d549418cc13faddd40622,
@@ -87,8 +93,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8b8181c51dc0fb348b55b6d564823ed3, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  counterTopPoint: {fileID: 0}
-  kitchenObjectsSO: {fileID: 0}
+  counterTopPoint: {fileID: 2139140745155483293}
+  kitchenObjectsSO: {fileID: 11400000, guid: bb1b10a23fcd5784baf0f4e3b72b4976, type: 2}
 --- !u!4 &8385796680484828107 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5800817216160422989, guid: 6688aa80898d549418cc13faddd40622,
