@@ -9,12 +9,10 @@ public class ClearCounter : BaseCounter
     {
         if(!HasKitchenObject())
         {
-            Debug.Log("Eli boþ");
             // There is no kitchen object here
             if (player.HasKitchenObject())
             {
                 // Player is carrying something
-                Debug.Log(player.GetKitchenObject());
                 player.GetKitchenObject().SetKitchenObjectParent(this);
             }
         }

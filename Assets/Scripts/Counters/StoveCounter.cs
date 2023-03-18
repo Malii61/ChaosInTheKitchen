@@ -1,6 +1,4 @@
 using System;
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 
 public class StoveCounter : BaseCounter, IHasProgress
@@ -126,8 +124,8 @@ public class StoveCounter : BaseCounter, IHasProgress
                     //Player is holding a Plate
                     if (plateKitchenObject.TryAddIngredient(GetKitchenObject().GetKitchenObjectsSO()))
                     {
-                        GetKitchenObject().DestroySelf();
                         GetKitchenObject().SetKitchenObjectParent(player);
+                        GetKitchenObject().DestroySelf();
                         state = State.Idle;
 
                         OnStateChanged?.Invoke(this, new OnStateChangedEventArgs
