@@ -37,7 +37,7 @@ https://github.com/Malii61/ChaosInTheKitchen/assets/92629282/9171ccd3-eb6a-4c76-
   
 ### Installation
  <a>
-    If you want to try the game, you can download it from <a href="https://github.com/Malii61/ChaosInTheKitchen/blob/main/Build"> this </a> link. After download open the Escape From Horror Mansion.exe file to run the game.
+    If you want to try the game, you can download it from <a href="https://github.com/Malii61/ChaosInTheKitchen/blob/main/Build"> this </a> link. After download open the ChaosInTheKitchen.exe file to run the game.
 
 
    
