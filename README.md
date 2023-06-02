@@ -23,7 +23,7 @@ I made the game by watching the 10-hour training video of CodeMonkey on Youtube.
  
 Here are some features of the game:
 * Chop vegetables and cook meat
-* Play easily with Handy control system
+* Play easily with handy control system
 * Grab a plate and start filling it to order
   
 ### Images From Game
