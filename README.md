@@ -27,8 +27,8 @@ Here are some features of the game:
 * Grab a plate and start filling it to order
   
 ### Images From Game
-  <img src="/Images/in%20game%201.png" width="450" height="225"/>
-  <img src="/Images/in%20game%202.png" width="450" height="225"/>
+  <img src="/Images/in%20game%201.png" width="450" height="250"/>
+  <img src="/Images/in%20game%202.png" width="450" height="250"/>
   
 
 
